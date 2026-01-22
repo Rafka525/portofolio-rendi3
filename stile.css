@@ -166,7 +166,7 @@ footer {
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 450px) {
     main {
         display: grid;
         width: 100%;
@@ -228,7 +228,7 @@ footer {
     }
 
     #about p {
-        max-width: 400px;
+        max-width: 300px;
         color: #e5e7eb;
         line-height: 1.6;
         text-align: justify;
@@ -327,4 +327,5 @@ footer {
 
 
 }
+
 
