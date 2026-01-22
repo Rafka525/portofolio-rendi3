@@ -217,7 +217,7 @@ footer {
     #about {
         grid-column: 1;
         margin-top: 25px;
-        height: 60vh;
+        height: auto;
         display: flex;
         background: linear-gradient(#111, #222, #333);
         align-items: center;
@@ -327,5 +327,6 @@ footer {
 
 
 }
+
 
 
