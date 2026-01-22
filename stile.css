@@ -69,7 +69,7 @@ nav a:hover {
 }
 
 #about p {
-    max-width: 600px;
+    max-width: 370px;
     color: #e5e7eb;
     line-height: 1.6;
     text-align: justify;
@@ -114,7 +114,7 @@ nav a:hover {
 
 .circle-skill {
     --value: 0%;
-    width: 150px;
+    width: 100px;
     aspect-ratio: 1/1;
     border: 3px solid white;
     border-radius: 50%;
@@ -327,3 +327,4 @@ footer {
 
 
 }
+
