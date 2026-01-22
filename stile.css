@@ -185,7 +185,7 @@ footer {
     }
 
     header h1 {
-        margin-left: 20px;
+        margin-left: 10px;
     }
 
     nav {
@@ -200,7 +200,7 @@ footer {
         align-items: center;
         flex-direction: column;
         list-style: none;
-        margin-right: 20px;
+        margin-right: 10px;
     }
 
     nav a {
@@ -259,7 +259,7 @@ footer {
     .perkumpulan-skill {
         display: flex;
         justify-content: center;
-        gap: 40px;
+        gap: 20px;
         flex-wrap: wrap;
     }
 
@@ -273,7 +273,7 @@ footer {
 
     .circle-skill {
         --value: 0%;
-        width: 150px;
+        width: 100px;
         aspect-ratio: 1/1;
         border: 3px solid white;
         border-radius: 50%;
@@ -324,5 +324,6 @@ footer {
             --progress: var(--value)
         }
     }
+
 
 }
